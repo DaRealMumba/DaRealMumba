@@ -1,10 +1,15 @@
 ### Hi there 👋
+My name is Muminsho, but you can call me Mumin
 
-<h3 align="left">I'm working with:</h3>
-Data Analysis, Machine Learning, Deep Learning<br>
+**I'm working with:**
+- Data Analysis, 
+- Machine Learning, 
+- Deep Learning<br>
 
 Check my projects in my reprositories
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealMumba)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealMumba)
 
 - 📫 contact me:
 
@@ -13,7 +18,7 @@ Check my projects in my reprositories
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muminshoam@gmail.com)
 
 
-### Some badges:
+### Stack:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
