@@ -8,8 +8,7 @@ My name is Muminsho, but you can call me Mumin
 
 Check my projects in my reprositories
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealMumba)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealMumba)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealMumba)
 
 - 📫 contact me:
 
