@@ -6,8 +6,6 @@ My name is Muminsho, but you can call me Mumin
 - Machine Learning, 
 - Deep Learning<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaRealMumba)
-
 - 📫 contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realmumba)
